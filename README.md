@@ -136,7 +136,7 @@ I'm happy to consider [issues][github-issues] or [pull requests][github-pr]. How
 
 [annotated-source]: https://rhumaric.github.io/babel-plugin-transform-last-statement/#traversal-of-individual-statements
 [writable-stream]: https://nodejs.org/api/stream.html#stream_class_stream_writable
-[babel-configuration]: https://babeljs.io/docs/en/config-
+[babel-configuration]: https://babeljs.io/docs/en/config-files
 [process-template-literals]: https://github.com/rhumaric/process-template-literals
 [omniformat]: https://github.com/rhumaric/omniformat
 [github-issues]: https://github.com/rhumaric/babel-plugin-transform-last-statement/issues
